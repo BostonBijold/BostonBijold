@@ -15,12 +15,12 @@ S.A.L.Y. (Same As Last Year)
 Description: A machine learning bookkeeper that uses a company's history to categorize new transactions after being entered. For companies without a history, a second layer of machine learning used to categorize transactions to the most used category of similar
 transactions. 
 Technologies Used: Python, scikit-learn, Flask, Pymongo
-GitHub Repository: [Link to GitHub Repository]
+GitHub Repository: https://github.com/BostonBijold/SALY-v1
 
 AIM Mobile APP
-Description: A mobile app that guides users to treat their personal goals as a Agile development project. Users write goals projects, define milestones - Epics, and their daily tasks - user stories, to track their progress. Each day they preform a daily standup with themselves to plan their day and define a time to prform a retrospective to review their progress. 
+Description: A mobile app that guides users to treat their personal goals as a Agile development project. Users write goals projects, define milestones - Epics, and their daily tasks - user stories, to track their progress. Each day they preform a daily standup with themselves to plan their day and define a time to perform a retrospective to review their progress. 
 Technologies Used: React Native, firebase, expo go
-GitHub Repository: [Link to GitHub Repository]
+GitHub Repository: https://github.com/BostonBijold/AIM
 
 
 Work Experience
